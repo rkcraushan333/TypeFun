@@ -38,6 +38,7 @@ const words = [
     'magic',
     'hurricane',
     'instagram',
+    'fatal'
 ];
 
 const levels = {
